@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="3.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="ae.uof.ac.sls" version="3.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>UOF Smart Learning</name>
   <description> university of Fujairah Smart Learning app</description>
   <author href="http://sls.uof.ac.ae" email="basil@uof.ac.ae">Basil Faris</author>
