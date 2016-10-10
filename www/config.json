@@ -1,6 +1,6 @@
 {
     "app_id" : "ae.uof.ac.sls",
-    "siteurl": "http://sls.uof.ac.ae",
+    "presets" : {"url": "http://sls.uof.ac.ae", "username": ""},
     "appname": "UOF Smart Learning",
     "versioncode" : "2016",
     "versionname" : "3.1.2",
